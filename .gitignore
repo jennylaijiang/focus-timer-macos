@@ -1,0 +1,14 @@
+.DS_Store
+.build/
+build/
+DerivedData/
+.swiftpm/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+*.sqlite*
+*.store*
+.env
+*.p12
+*.mobileprovision

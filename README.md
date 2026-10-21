@@ -76,3 +76,5 @@ With full Xcode selected, `swift test` also runs the core and persistence tests.
 With only recent Swift Command Line Tools, use `./scripts/test-engine.sh` for the timer-only tests; this does not test SwiftData or the app.
 
 See [development verification](docs/verification.md) for historical test results and the manual release checklist.
+
+See the [roadmap](docs/ROADMAP.md) for planned features and progress after v1.0, and the [release checklist](docs/release-checklist.md) for release preparation.

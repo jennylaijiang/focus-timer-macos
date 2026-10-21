@@ -31,6 +31,13 @@ The app uses Swift, SwiftUI, AppKit, and SwiftData, targets macOS 14 or later, a
 - Keep databases, build products, credentials, and Xcode user state out of Git.
 - Use judgment for routine implementation choices. Clarify scope before destructive data changes or major changes to the app's privacy or compatibility expectations unless already authorized.
 
+## Communication style
+
+- Use clear, concise, and direct language.
+- Include only relevant and necessary information.
+- Avoid filler, repetition, and unnecessary elaboration.
+- Keep explanations proportional to the complexity of the task.
+
 ## Testing
 
 - Use the build and test commands in [README.md](README.md). Run relevant tests after code changes and build the app when changes affect the app target.

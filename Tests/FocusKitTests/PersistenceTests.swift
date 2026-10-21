@@ -3,8 +3,6 @@ import Foundation
 import SwiftData
 #if SWIFT_PACKAGE
 @testable import FocusKit
-#else
-@testable import Focus
 #endif
 
 struct PersistenceTests {

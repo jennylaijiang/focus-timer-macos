@@ -2,8 +2,6 @@ import Testing
 import Foundation
 #if SWIFT_PACKAGE
 @testable import FocusKit
-#else
-@testable import Focus
 #endif
 
 final class TestClock {
